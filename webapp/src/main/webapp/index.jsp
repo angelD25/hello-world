@@ -18,3 +18,6 @@
 <h2> Git --> Jenkins --> Ansible --> DockerHub --> Docker</h2>
 
 <h1> Good Job ! </h1>
+
+
+<p> create container only on dockerserver , not on ansibleserver ! check ! </p>
