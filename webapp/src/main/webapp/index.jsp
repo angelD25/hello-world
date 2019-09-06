@@ -11,3 +11,10 @@
 <li> Deploy on Ansible server contaienr - setup publish over SSH in System Configuration using(Publish over SSH Plugin)</li>
 <li> Run Ansible playbook to create dockerimage and container and deploy the war file on Container using Dockerfile on Jenkins </li>
 </ol>
+
+
+
+
+<h2> Git --> Jenkins --> Ansible --> DockerHub --> Docker</h2>
+
+<h1> Good Job ! </h1>
