@@ -1,9 +1,7 @@
 <h1> Hello, Welcome to Simple DevOps Project !!   </h1>
-<h2> Deploying on a kubernetes using ansible for Valaxy Technologies </h2>
-<h2> Glad to see you here </h2>
+<h2> Deploying on a kubernetes using ansible-playbook from jenkins(ci/cd)</h2>
 
-
-<ol>
+<ol style="font-size:20px;">
 <li> Fetch Project - GitHub integration with jenkins (Github Plugin)</li>
 <li> Build and get War file - Maven Integration with jenkins (Maven Integration & Maven Invoker plugins)</li>
 <li> Deploy the war file on Tomcat Server - Setup Post build actions in JOB using(Deploy to container plugin)</li>
@@ -15,7 +13,7 @@
 
 
 
-<h2> Git --> Jenkins --> Ansible --> DockerHub --> Docker</h2>
+<h2> Git --> Jenkins --> Ansible --> DockerHub --> kubernetes </h2>
 
 <h1> Good Job ! </h1>
 
