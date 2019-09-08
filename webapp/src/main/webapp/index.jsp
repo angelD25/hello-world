@@ -12,4 +12,4 @@
 <li> Run Ansible playbook to create dockerimage and container and deploy the war file on Container using Dockerfile on Jenkins </li>
 </ol>
 
-<p style="font-size:20px;"> The automated deployment </p>
+<p style="font-size:20px;"> The automated deployment 1 </p>
